@@ -1,12 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/EnemyLifeBar.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CreateTowerOnClicked.cs">
     <Files>
       <File FileName="Assets/Script/BonusManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Script/LevelManager.cs" Line="20" Column="55" />
+      <File FileName="Assets/Script/LevelManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Script/PlayerLifeManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Script/EnemyLifeBar.cs" Line="17" Column="3" />
       <File FileName="Assets/Script/BasicEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CreateTowerOnClicked.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
